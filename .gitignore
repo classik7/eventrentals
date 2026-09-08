@@ -19,6 +19,10 @@
 /storage/*.key
 /storage/pail
 /vendor
+/public_html
+/public/build.zip
+/public/sounds.zip
+/public/hot
 Homestead.json
 Homestead.yaml
 Thumbs.db
